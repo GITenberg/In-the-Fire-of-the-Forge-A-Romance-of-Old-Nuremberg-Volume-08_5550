@@ -1,5 +1,5 @@
 _repo: In-the-Fire-of-the-Forge-A-Romance-of-Old-Nuremberg-Volume-08_5550
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Safford, Mary J.
@@ -33,5 +33,6 @@ subjects:
 - !lcc 'PT'
 - !lcsh 'German fiction -- Translations into English'
 - !lcsh 'Nuremberg (Germany) -- Fiction'
+- GITenberg
 title: 'In the Fire of the Forge: A Romance of Old Nuremberg — Volume 08'
 url: http://www.gutenberg.org/ebooks/5550
